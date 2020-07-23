@@ -4,7 +4,14 @@
 
 # CV Damian Gonzalez
 
+Este es el repositorio con el codigo de mi CV personal, Esta construida con:
+
+- HTML
+- CSS
+- Javascript
+
+Se encuentra deployada en una instancia en now.sh
+
 ### Sigueme en mis redes sociales:
 
-- [Blogger](https://damiangonzalezdev.blogspot.com/)
 - [Twitter](https://twitter.com/DamianDev1)
